@@ -1,4 +1,4 @@
-package idempotency
+package grpc_idempotency
 
 import (
 	"context"

@@ -1,4 +1,4 @@
-module grpc_idempotency
+module github.com/zevst/grpc_idempotency
 
 go 1.13
 
