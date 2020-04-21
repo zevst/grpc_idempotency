@@ -1,0 +1,13 @@
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.out
+.idea
+*.iml
+out
+gen
+
+# Test binary, built with `go test -c`
+*.test
